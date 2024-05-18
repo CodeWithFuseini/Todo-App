@@ -13,8 +13,7 @@
 - UPDATE PRODUCT
   <br/>
   <br/>
-<h5 align="left">Fell Free to create a branch from it and add the update  or hit me up for collaboration codefuseini176@gmail.com </h5>
-- **codefuseini176@gmail.com**
+<h5 align="left">Fell Free to create a branch from it and add the update  or hit me up for collaboration -> codefuseini176@gmail.com </h5>
 <hr/>
 
 <h3 align="left"># UPCOMING UPDATE LINKED WITH EXPRESS JS & MONGODB OR MONGOOSE</h3>
