@@ -1,9 +1,7 @@
 
 
-<h1 align="left"># TODO APP</h1>
+<h1 align="left" color="blue"># TODO APP</h1>
 <h3 align="left">Simple Todo App with Top `functionalities`</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithfuseini&label=Profile%20views&color=0e75b6&style=flat" alt="codewithfuseini" /> </p>
 
 - CREATE PRODUCT
 
