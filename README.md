@@ -1,7 +1,10 @@
 
 
 <h1 align="left" color="blue"># TODO APP</h1>
-<h3 align="left">Simple Todo App with Top `functionalities` CRUD</h3>
+<div>
+  <h3 align="left">Simple Todo App with Top `functionalities` CRUD</h3>
+  <h3 align="right">Fell Free to create branch from it and continue or hit me up for collabo. </h3>
+</div>
 
 - CREATE PRODUCT
 
