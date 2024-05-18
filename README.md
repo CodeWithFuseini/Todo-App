@@ -1,10 +1,8 @@
 
 
 <h1 align="left" color="blue"># TODO APP</h1>
-<div>
   <h3 align="left">Simple Todo App with Top `functionalities` CRUD</h3>
-  <h3 align="right">Fell Free to create branch from it and continue or hit me up for collabo. </h3>
-</div>
+
 
 - CREATE PRODUCT
 
@@ -13,6 +11,9 @@
 - VIEW PRODUCT
 
 - UPDATE PRODUCT
+  <br/>
+  <br/>
+<h5 align="left">Fell Free to create branch from it and continue or hit me up for collabo. </h5>
 <hr/>
 
 <h3 align="left"># UPCOMING UPDATE LINKED WITH EXPRESS JS & MONGODB OR MONGOOSE</h3>
