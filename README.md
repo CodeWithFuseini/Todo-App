@@ -1,7 +1,7 @@
 
 
 <h1 align="left" color="blue"># TODO APP</h1>
-<h3 align="left">Simple Todo App with Top `functionalities`</h3>
+<h3 align="left">Simple Todo App with Top `functionalities` CRUD</h3>
 
 - CREATE PRODUCT
 
@@ -9,7 +9,7 @@
 
 - VIEW PRODUCT
 
-- VIEW PRODUCT
+- UPDATE PRODUCT
 <hr/>
 
 <h3 align="left"># UPCOMING UPDATE LINKED WITH EXPRESS JS & MONGODB OR MONGOOSE</h3>
